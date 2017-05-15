@@ -82,7 +82,7 @@ function Controller() {
 
   function getCharMap(data) {
     var usedLet = data.incorrect.concat([...data.correct])
-    var charMap = 'abcdefghijklmnopqrstubwxyz'.split('')
+    var charMap = 'abcdefghijklmnopqrstuvwxyz'.split('')
     for (var i = 0; i < charMap.length; i++) {
       var char = charMap[i]
       for (var j = 0; j < usedLet.length; j++) {

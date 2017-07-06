@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "" // git+https://github.com/DarrylKilzer/hangman.git
+    "url": "git+https://github.com/DarrylKilzer/hangman.git"
   },
-  "author": "Rory Walker & others",
+  "author": "Darryl Kilzer, Jason Nguyen, Kaleb Aaron, Kyle Hyer, Rory Walker & Sam Tanner",
   "license": "ISC",
   "bugs": {
-    "url": ""  // https://github.com/DarrylKilzer/hangman/issues
+    "url": "https://github.com/DarrylKilzer/hangman/issues"
   },
-  "homepage": "",   // https://github.com/DarrylKilzer/hangman#readme
+  "homepage": "https://github.com/DarrylKilzer/hangman#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "cors": "^2.8.3",
